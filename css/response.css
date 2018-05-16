@@ -1,0 +1,39 @@
+.navigation {
+
+}
+
+ul {
+  text-align:center
+}
+
+ul li {
+  display: block;
+  align: center;
+  padding:2px;
+  margin:2px;
+  color: black;
+}
+
+
+.post {
+  display: flex;
+  flex-direction: column;
+
+}
+.post h1 {
+  background-color:lightBlue;
+}
+
+.post img {
+  width: 100%;
+  display:block;
+}
+
+.post-image {
+    float:left;
+    margin-right:10px;
+}
+
+body {
+  background-color: yellow;
+}
